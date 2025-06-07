@@ -7,5 +7,6 @@ lista de megathereads y un monton de cosas
 1. [Ripped](https://ripped.guide/) Lista de tambien cosas utiles y gratis
 
 ### PAGINAS QUE AUN NOSE
-https://www.listdiff.com/
-https://listjs.com/
+1. https://www.listdiff.com/
+1. https://listjs.com/
+2. 
