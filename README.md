@@ -6,3 +6,6 @@ lista de megathereads y un monton de cosas
 1. [r/piracy](https://www.reddit.com/r/Piracy/wiki/megathread) LIsta de reddit casi igual a la fmhy en lista solo que diferente en todo
 1. [Ripped](https://ripped.guide/) Lista de tambien cosas utiles y gratis
 
+### PAGINAS QUE AUN NOSE
+https://www.listdiff.com/
+https://listjs.com/
