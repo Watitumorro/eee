@@ -24,6 +24,9 @@ lista de megathereads y un monton de cosas
   <li><a href="https://gibiru.com/">Gibiru</a></li>
   <li><a href="https://kagi.com/">Kagi</a></li>
   <li><a href="https://stract.com/">Stract</a></li>
+
+  ### BUSCADORES QUE DONAN  A UNA ORGANIZACION BENEFICA EN COMUN
+  https://llarryyllarryy.github.io/Max-Impact-Search/
   
 ### PAGINAS QUE AUN NOSE
 1. https://www.listdiff.com/
