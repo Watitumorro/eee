@@ -1,27 +1,8 @@
 # LISTA DE COSAS GRATIS QUE HAY EN INTERNET
 ## [MEGAHILOS](https://github.com/Watitumorro/eee/wiki#megahilos)
 
-### BUSCADORES
-  <li><a href="https://www.google.com/">Google
-  <li><a href="https://www.bing.com/">Bing
-  <li><a href="http://www.yahoo.com/">Yahoo!</a></li>
-  <li><a href="https://yandex.com/">Yandex</a></li>
-  <li><a href="https://www.ask.com/">Ask</a></li>
-  <li><a href="https://www.baidu.com/">Baidu</a></li>
-  <li><a href="https://searx.be/?q=">SearXNG</a></li> <a href="https://searx.fmhy.net/">FMHY version
-  <li><a href="http://www.exalead.com/search/web/">EXALead</a></li>
-  <li><a href="https://duckduckgo.com/">DuckDuckGo</a></li>
-  <li><a href="https://swisscows.com/en">Swisscows</a></li>
-  <li><a href="https://www.naver.com/">Naver</a></li>
-  <li><a href="https://search.aol.com">AOL</a></li>
-  <li><a href="https://search.brave.com/">Brave</a></li>
-  <li><a href="https://yep.com/">Yep</a></li>
-  <li><a href="https://gibiru.com/">Gibiru</a></li>
-  <li><a href="https://kagi.com/">Kagi</a></li>
-  <li><a href="https://stract.com/">Stract</a></li>
-
-  ### BUSCADORES QUE DONAN  A UNA ORGANIZACION BENEFICA EN COMUN
-  https://llarryyllarryy.github.io/Max-Impact-Search/
+### BUSCADORES QUE DONAN  A UNA ORGANIZACION BENEFICA EN COMUN
+1. [Max Impact Search](https://llarryyllarryy.github.io/Max-Impact-Search/)
   
 ### PAGINAS QUE AUN NOSE
 1. https://www.listdiff.com/
